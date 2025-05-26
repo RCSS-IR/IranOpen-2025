@@ -1,7 +1,7 @@
-[TDP_IO2025_The8 - Morteza Noohpisheh.pdf](https://github.com/user-attachments/files/20438741/TDP_IO2025_The8.-.Morteza.Noohpisheh.pdf)This repository contains the game logs for IranOpen 2025.
+This repository contains the game logs for IranOpen 2025.
 
 
-Here are the TPDs:
+TPDs:
 
 Starter:
   - [TNT-PY](https://github.com/user-attachments/files/20438537/TDP_IO2025_TNT-Py.-.pdf)
